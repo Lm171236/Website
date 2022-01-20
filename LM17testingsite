@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<HTML>
+<title> Welcome
+</title>
+<body>
+<p style="font-family:Boulder; color:Purple; font-size: 20px;">Welcome!</p> <!--Text Properties.-->
+<p> This website is a test as of now and will be evolved in the future.
+<p/>
+<br> For now i will be working on the basics of html.
+<br/>
+ <!--https://www.codegrepper.com/code-examples/html/how+to+change+button+text+color+in+html helpful site-->
+
+<button style="color:red; background-color:black" onclick="window.location.href='https://www.youtube.com/watch?v=dQw4w9WgXcQ';">
+   
+ Click Here
+
+</button>
+<body>
+<html>   
+
